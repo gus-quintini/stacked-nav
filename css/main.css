@@ -1,19 +1,19 @@
 html {
-	box-sizing: border-box;
+  box-sizing: border-box;
   font-family: "Dosis", sans-serif;
 }
 
 *, *::before, *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 html {
-display: block;
-box-sizing:border-box;
-text-align:center;
-border-width:medium;
-border-color: #795437;
-line-height:normal;
+  display: block;
+  box-sizing: border-box;
+  text-align: center;
+  border-width: medium;
+  border-color: #795437;
+  line-height: normal;
 }
 
 ul {
@@ -31,7 +31,7 @@ ul {
 
 h1 {
   font-weight: bold;
-  color:#591a0b
+  color: #591a0b;
 }
 
 li {
@@ -43,8 +43,8 @@ li {
 }
 
 li:hover {
-	background-color: #795437;
-  color: #fffef8
+  background-color: #795437;
+  color: #fffef8;
 }
 
 body {
